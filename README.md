@@ -35,6 +35,7 @@ A investigação se aprofunda, revelando pistas misteriosas que conectam Clara a
  •Objetivo:
  Criar uma narrativa imersiva sobre mistério, poder e os segredos que conectam as famílias, com personagens profundos e reflexões sobre o impacto da corrupção.
 
-  ![download](https://github.com/user-attachments/assets/10509512-26e5-4cd7-b822-f48c33782cf2)
+  
+![Brown Monochrome Simple Minimalist Presentation Template](https://github.com/user-attachments/assets/c671ccbc-9c5d-451f-a06a-e30983b8b596)
 
  
