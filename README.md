@@ -1,40 +1,40 @@
-*Entre Sombras e Segredos*
-Romance Investigativo
 
-*Descrição do Projeto*
-"Entre Sombras e Segredos" é um romance investigativo envolvente que combina mistério, suspense e um forte componente emocional. A narrativa acompanha Eleanor Redgrave, uma jornalista determinada, em sua busca pela verdade após a misteriosa morte de sua irmã, Clara. Sua investigação a leva a confrontar uma poderosa organização secreta conhecida como "O Clube do Vermelho", cujas raízes profundas permeiam as estruturas da sociedade.
+![download](https://github.com/user-attachments/assets/13b64e12-6dd8-41e3-ab92-ab1e5d32812b)
 
-Este repositório contém o manuscrito completo do livro, recursos relacionados ao desenvolvimento da história e informações adicionais para escritores, leitores e entusiastas do gênero.
 
-Características do Livro
-Gênero: Romance investigativo com elementos de mistério e drama psicológico.
-Estrutura: Dividido em quatro partes principais, cada uma composta por capítulos interconectados, que exploram pistas, revelações e dilemas morais.
+Entre Sombras e Segredos
+ •Romance Investigativo
 
+ •Descrição:
+ "Entre Sombras e Segredos" é um romance investigativo que mistura mistério, suspense e drama psicológico. A trama segue Eleanor Redgrave, uma jornalista determinada a desvendar a morte de sua irmã, Clara. A investigação a leva a enfrentar "O Clube do Vermelho", uma organização secreta com raízes profundas na sociedade.
+
+ •Gênero: Romance investigativo, mistério e drama psicológico.
+ Estrutura: Dividido em 4 partes, cada uma composta por capítulos interligados que revelam pistas e dilemas morais.
 Temas principais:
-Conexões familiares e legado.
-Busca pela verdade e enfrentamento de traumas pessoais.
-Impacto da corrupção em estruturas de poder.
-Detalhes da Estrutura do Projeto
 
-Parte 1: O Início das Sombras
-Introdução aos personagens principais e à motivação central de Eleanor.
-Clara desaparece, deixando um mistério em aberto e um diário enigmático.
+ •Conexões familiares e legado.
+ A busca pela verdade e enfrentamento de traumas.
+O impacto da corrupção no poder.
+Estrutura do Livro:
 
-Parte 2: Entre Sombras e Segredos
-Desenvolvimento da investigação de Eleanor.
-Relação complexa com Thomas, um aliado misterioso.
-Descoberta de pistas intrigantes, como o diário de Clara, desenhos e códigos que revelam os segredos do clube.
+ •Parte 1: O Início das Sombras
+ Eleanor investiga a misteriosa morte de Clara, com a ajuda de um diário enigmático.
 
-Parte 3: Labirinto de Realidades
-Eleanor enfrenta reviravoltas, traições e descobre conexões inesperadas com sua própria família.
-A narrativa atinge um ponto de tensão máxima quando Eleanor encontra evidências cruciais sobre o clube.
+ •Parte 2: Entre Sombras e Segredos
+A investigação se aprofunda, revelando pistas misteriosas que conectam Clara ao Clube.
 
-Parte 4: A Verdade Fragmentada
-O confronto final ocorre em um teatro abandonado.
-O clube é desmantelado, mas Eleanor descobre que as sombras do vermelho podem ressurgir.
-Reflexões emocionais e abertura para possíveis desdobramentos.
-Elementos de Design Narrativo
-Personagens: Construídos com profundidade emocional e dilemas morais que conectam o leitor à trama.
-Foreshadowing: Elementos cuidadosamente inseridos no início da narrativa que ganham significado ao longo da história.
-Códigos e Enigmas: Presentes no diário de Clara e em bilhetes enigmáticos, adicionando um toque interativo ao mistério.
-Relação entre Eleanor e Clara: Um vínculo central que permeia a trama e conduz as motivações da protagonista.
+ •Parte 3: Labirinto de Realidades
+ Reviravoltas, traições e a descoberta de segredos familiares. A tensão aumenta à medida que novas evidências surgem.
+
+ •Parte 4: A Verdade Fragmentada
+ O confronto final ocorre, desmantelando o clube, mas novas ameaças surgem.
+
+ •Elementos de Design Narrativo:
+
+ •Personagens complexos, com dilemas morais que conectam o leitor.
+ •Foreshadowing de eventos futuros.
+ •Enigmas interativos no diário de Clara.
+ •Relação de Eleanor e Clara que guia a trama.
+ 
+ •Objetivo:
+ Criar uma narrativa imersiva sobre mistério, poder e os segredos que conectam as famílias, com personagens profundos e reflexões sobre o impacto da corrupção.
