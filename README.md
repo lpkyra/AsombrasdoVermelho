@@ -1,7 +1,4 @@
 
-![download](https://github.com/user-attachments/assets/13b64e12-6dd8-41e3-ab92-ab1e5d32812b)
-
-
 Entre Sombras e Segredos
  •Romance Investigativo
 
@@ -38,3 +35,5 @@ A investigação se aprofunda, revelando pistas misteriosas que conectam Clara a
  
  •Objetivo:
  Criar uma narrativa imersiva sobre mistério, poder e os segredos que conectam as famílias, com personagens profundos e reflexões sobre o impacto da corrupção.
+
+ ![download](https://github.com/user-attachments/assets/13b64e12-6dd8-41e3-ab92-ab1e5d32812b)
