@@ -1,23 +1,40 @@
-"Entre Sombras e Segredos" é um romance investigativo que combina mistério, drama e emoção em uma história cativante. A trama acompanha Eleanor Redgrave, uma jornalista destemida, em sua busca por respostas após a morte misteriosa de sua irmã, Clara. À medida que Eleanor mergulha em segredos ocultos e enfrenta uma organização poderosa e corrupta, ela descobre que algumas verdades vêm com um alto preço.
+*Entre Sombras e Segredos*
+Romance Investigativo
 
-Este repositório foi criado para compartilhar o processo criativo por trás do livro e disponibilizar recursos relacionados à história, como arquivos complementares, códigos, enigmas e notas de desenvolvimento.
+*Descrição do Projeto*
+"Entre Sombras e Segredos" é um romance investigativo envolvente que combina mistério, suspense e um forte componente emocional. A narrativa acompanha Eleanor Redgrave, uma jornalista determinada, em sua busca pela verdade após a misteriosa morte de sua irmã, Clara. Sua investigação a leva a confrontar uma poderosa organização secreta conhecida como "O Clube do Vermelho", cujas raízes profundas permeiam as estruturas da sociedade.
 
-Características
+Este repositório contém o manuscrito completo do livro, recursos relacionados ao desenvolvimento da história e informações adicionais para escritores, leitores e entusiastas do gênero.
+
+Características do Livro
 Gênero: Romance investigativo com elementos de mistério e drama psicológico.
-Formato: Estruturado em quatro partes principais, cada uma com capítulos que interligam mistério, ação e dilemas emocionais.
-Elementos narrativos:
-Foreshadowing: Pistas inseridas ao longo da narrativa para surpreender o leitor.
-Códigos e enigmas: Inspirados em histórias de mistério e suspense, tornando a experiência imersiva.
+Estrutura: Dividido em quatro partes principais, cada uma composta por capítulos interconectados, que exploram pistas, revelações e dilemas morais.
 
-Desenvolvimento emocional: Relação intensa entre os personagens, especialmente Eleanor e Clara.
+Temas principais:
+Conexões familiares e legado.
+Busca pela verdade e enfrentamento de traumas pessoais.
+Impacto da corrupção em estruturas de poder.
+Detalhes da Estrutura do Projeto
 
+Parte 1: O Início das Sombras
+Introdução aos personagens principais e à motivação central de Eleanor.
+Clara desaparece, deixando um mistério em aberto e um diário enigmático.
 
-Conteúdo do Repositório
-Manuscrito: Texto completo do livro em formatos Markdown e PDF.
-Recursos Visuais: Materiais que complementam a história, como exemplos de códigos cifrados e trechos do diário de Clara.
-Notas de Desenvolvimento: Insights sobre o processo criativo, alterações no enredo e decisões narrativas.
+Parte 2: Entre Sombras e Segredos
+Desenvolvimento da investigação de Eleanor.
+Relação complexa com Thomas, um aliado misterioso.
+Descoberta de pistas intrigantes, como o diário de Clara, desenhos e códigos que revelam os segredos do clube.
 
-Extras: Materiais adicionais para escritores e leitores que queiram explorar o gênero investigativo.
+Parte 3: Labirinto de Realidades
+Eleanor enfrenta reviravoltas, traições e descobre conexões inesperadas com sua própria família.
+A narrativa atinge um ponto de tensão máxima quando Eleanor encontra evidências cruciais sobre o clube.
 
-Objetivo do Projeto
-Este repositório não é apenas um espaço para compartilhar o manuscrito, mas também um recurso aberto para escritores, leitores e criadores que desejam aprender mais sobre narrativa, desenvolvimento de personagens e design de histórias interativas.
+Parte 4: A Verdade Fragmentada
+O confronto final ocorre em um teatro abandonado.
+O clube é desmantelado, mas Eleanor descobre que as sombras do vermelho podem ressurgir.
+Reflexões emocionais e abertura para possíveis desdobramentos.
+Elementos de Design Narrativo
+Personagens: Construídos com profundidade emocional e dilemas morais que conectam o leitor à trama.
+Foreshadowing: Elementos cuidadosamente inseridos no início da narrativa que ganham significado ao longo da história.
+Códigos e Enigmas: Presentes no diário de Clara e em bilhetes enigmáticos, adicionando um toque interativo ao mistério.
+Relação entre Eleanor e Clara: Um vínculo central que permeia a trama e conduz as motivações da protagonista.
