@@ -1,5 +1,9 @@
-Entre Sombras e Segredos
- •Romance Investigativo
+
+   ![Template](https://github.com/user-attachments/assets/07cf4746-4c0f-4aa2-9eaf-503b0e21e848)
+
+ 
+📚Entre Sombras e Segredos
+   •Romance Investigativo
 
  •Descrição:
  "Entre Sombras e Segredos" é um romance investigativo que mistura mistério, suspense e drama psicológico. A trama segue Eleanor Redgrave, uma jornalista determinada a desvendar a morte de sua irmã, Clara. A investigação a leva a enfrentar "O Clube do Vermelho", uma organização secreta com raízes profundas na sociedade.
@@ -34,8 +38,3 @@ A investigação se aprofunda, revelando pistas misteriosas que conectam Clara a
  
  •Objetivo:
  Criar uma narrativa imersiva sobre mistério, poder e os segredos que conectam as famílias, com personagens profundos e reflexões sobre o impacto da corrupção.
-
-  
-![Brown Monochrome Simple Minimalist Presentation Template](https://github.com/user-attachments/assets/c671ccbc-9c5d-451f-a06a-e30983b8b596)
-
- 
